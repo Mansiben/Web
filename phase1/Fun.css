@@ -1,0 +1,40 @@
+﻿body {
+
+    text-align:center;
+    background:url("Back.png") no-repeat fixed center;
+    background-size:cover;
+}
+h1
+{
+    font-family:'Comic Sans MS';
+     text-align:left;
+     margin-left:10%;
+    color:black;
+    
+}
+.table{
+    margin-left:40%;
+    
+}
+.table tr td
+{
+    text-align:center;
+    border:ridge;
+}
+#NewGame,#Go,#PlayAgain,#PickAgain,#Exit
+{
+     border-radius:12px;
+     background-color:#ff8a80;
+    font-size:20px;
+     text-align:center;
+    color:black;
+}
+.info
+{
+    width:70%;
+    margin-left:20%;
+    overflow:hidden;
+    color:darkblue;
+    font-size:20px;
+
+}

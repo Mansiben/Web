@@ -1,0 +1,20 @@
+﻿body {
+     background:url("GameBAck.jpg") no-repeat center fixed ;
+     background-size:cover;
+     font-size:20px;
+     color:	#FEA680;
+    font-style:italic;
+   
+}
+#Button_Login,#ButtonSignup
+{
+   
+     border-radius:12px;
+     background-color:chartreuse;
+     font-size:20px;
+    text-align:center;
+    color:#AA00FF;
+    align-content:center;
+    font-weight:bold;
+}
+

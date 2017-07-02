@@ -1,0 +1,40 @@
+﻿body {
+
+       background:url("PAge.jpg") ;
+       font-size:20px;
+       color:white;
+}
+
+#Snake_Ladder,#Fun_Match,#Button_SignUp
+{
+     border-radius:12px;
+     background-color:orangered;
+    font-size:20px;
+     text-align:center;
+    color:white;
+    align-content:center;
+}
+#LogOut,#Log
+{
+     border-radius:12px;
+     background-color:orangered;
+    font-size:20px;
+     text-align:center;
+    color:white;
+    align-content:center;
+}
+.Main,p
+
+{
+    margin-left:30%;
+}
+h1
+{
+    margin-left:35%;
+}
+.formDetails
+{
+    
+    margin-left:40%;
+}
+

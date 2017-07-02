@@ -1,0 +1,56 @@
+﻿body {
+    background:url("36-b-w-dice-1920x1080-3d-wallpaper.jpg") no-repeat fixed center;
+    background-size:cover;
+}
+.MainContent{
+     width:70%;
+    overflow:hidden;
+    color:deeppink;
+    font-size:20px;
+
+     
+}
+.MainContent #Play_Game{
+    border-radius:12px;
+     background-color:orangered;
+    font-size:20px;
+     text-align:center;
+    color:white;
+
+}
+.Main
+{
+    display:flex;
+}
+#Reset,#Roll_Dice,#Play_Again,#Exit
+{
+    background-color:#ff8a80;
+    border-color:black;
+    font-size:15px;
+    text-align:center;
+    color:#922727;
+
+}
+h1
+{
+    text-align:center;
+    color:coral;
+}
+.AllLabels 
+{
+    text-align:center;
+    flex:1;
+    color:cyan;
+    max-width:35%;
+    min-width:30%;
+    font-size:20px;
+}
+.AllLabels aside
+{
+    text-align:left;
+}
+.ImageButton{
+    width:70%;
+    overflow:hidden;
+}
+
